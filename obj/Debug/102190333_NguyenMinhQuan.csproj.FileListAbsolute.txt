@@ -1,0 +1,17 @@
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\102190333_NguyenMinhQuan.csprojAssemblyReference.cache
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\_102190333_NguyenMinhQuan.GUI.NguyenMinhQuan_DF.resources
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\_102190333_NguyenMinhQuan.GUI.NguyenMinhQuan_MF.resources
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\_102190333_NguyenMinhQuan.Properties.Resources.resources
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\102190333_NguyenMinhQuan.csproj.GenerateResource.cache
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\102190333_NguyenMinhQuan.csproj.CoreCompileInputs.cache
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\102190333_NguyenMinhQuan.exe.config
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\102190333_NguyenMinhQuan.exe
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\102190333_NguyenMinhQuan.pdb
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\EntityFramework.dll
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\EntityFramework.SqlServer.dll
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\EntityFramework.xml
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\EntityFramework.SqlServer.xml
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\102190333_NguyenMinhQuan.csproj.CopyComplete
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\102190333_NguyenMinhQuan.exe
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\obj\Debug\102190333_NguyenMinhQuan.pdb
+E:\2021-hk1\NET\102190333_NguyenMinhQuan\bin\Debug\FastMember.dll
